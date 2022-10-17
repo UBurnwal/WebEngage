@@ -1,0 +1,6 @@
+﻿user_id,Name,Email,Phone,Has User Unsubscribed from Email?,HasUserUnsubscribedfromSMS/IsUseronNDNCList?,Created On,first_name,first_completed_order_date,lto,is_promotional_sms_subscription,is_blacklisted,verified_email,blacklisted_date,is_email_subscription,last_name,last_completed_order_date,blacklisted_reason,geo_region_id,last_cancelled_order_time,email,phone
+Customer_9b7fee5a-a40b-48f7-90c8-78fd823319a1,Rajib Saha,rajibclean@gmail.com,971522856842,Subscribed,Subscribed,23:02.2,Rajib,,0,TRUE,FALSE,FALSE,,TRUE,Saha,,,1,,rajibclean@gmail.com,971522856842
+Customer_262b188b-7540-4d58-a1b2-8361c721f24a,Durgesh Yadav,durgesh227409@gmail.com,971566195693,Subscribed,Subscribed,53:18.3,Durgesh,,0,TRUE,FALSE,FALSE,,TRUE,Yadav,,,1,,durgesh227409@gmail.com,971566195693
+Customer_2b22e7d7-6912-4f75-a7fe-6ee43816693c,Sibi Sam,information@technoteamllc.com,971589768460,Subscribed,Subscribed,45:19.1,Sibi,26/09/22,1,TRUE,FALSE,FALSE,,TRUE,Sam,26/09/22,,1,26/09/22,information@technoteamllc.com,971589768460
+Customer_ce85b431-1526-44a8-8d21-e9c0a3405283,Mohamed Jamal,info@safetyway.ae,971522069312,Subscribed,Subscribed,44:55.1,Mohamed,,0,TRUE,FALSE,FALSE,,TRUE,Jamal,,,1,,info@safetyway.ae,971522069312
+,,,,,,,,,,,,,,,,,,,,,
